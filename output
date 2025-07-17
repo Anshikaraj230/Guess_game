@@ -1,0 +1,14 @@
+Welcome to the Number Guessing Game!
+I have picked a number between 1 and 100. Can you guess it?
+Enter your guess: 50
+Too high! Try again.
+Enter your guess: 20
+Too high! Try again.
+Enter your guess: 15
+Too high! Try again.
+Enter your guess: 10
+Too low! Try again.
+Enter your guess: 13
+Too low! Try again.
+Enter your guess: 14
+ Congratulations! You guessed it in 6 tries.
